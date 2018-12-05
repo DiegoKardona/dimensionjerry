@@ -1,0 +1,270 @@
+{
+  "seasons": [
+    {
+      "id": 1,
+      "title": "Primera temporada",
+      "chapters": [
+        {
+          "title": "Buscando las semillas",
+          "info": "Rick lleva a Morty a otra dimensión donde encuentran semillas de Mega Árbol; mientras tanto, Jerry y Beth discuten acerca de la...",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/a6711/bf47879816d765b6716807ff338b99f210ba6711.webp",
+          "video": "https://openload.co/embed/vNymHUO7AzE/Rick.and.Morty._1x01.mkv.mp4",
+          "id": 1
+        },
+        {
+          "title": "Invasión canina",
+          "info": "Rick diseña un aparato para que Snuffles sea más inteligente, pero resulta mal. Rick y Morty invaden los sueños del profesor de matemáticas de Morty.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/ae939/65d6d1d2b9750589e85370c6e79b9ee7db1ae939.webp",
+          "video": "https://openload.co/embed/lKO7SdU3RdA/Rick.and.Morty._1x02.mkv.mp4",
+          "id": 2
+        },
+        {
+          "title": "Parque anatómico",
+          "info": "Morty aparece en un extraño parque temático de enfermedades infecciosas y ubicado en el interior de un vagabundo.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/a7d25/50d0e67018ae86a37e57ba68b09b436ec8fa7d25.webp",
+          "video": "https://openload.co/embed/U5bJ1r1s1Fc/Rick.and.Morty._1x03.mkv.mp4",
+          "id": 3
+        },
+        {
+          "title": "La simulación alienígena",
+          "info": "Extraterrestres envían a Rick, Morty y a Jerry a una realidad alterna donde Rick intenta salvarlos mientras el distraido Jerry promueve un esloga..",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/c526c/25bce020ad2d3d21ee7671efc356e1e8b5fc526c.webp",
+          "video": "https://openload.co/embed/7A92c1Z-_Ww/Rick.and.Morty._1x04.mkv.mp4",
+          "id": 4
+        },
+        {
+          "title": "Meeseeks destructores",
+          "info": "Morty está cansado de las locuras de Rick, así que propone una aventura supuestamente más tranquila. Jerry conjura a una extraña criatura...",
+          "type": "video",
+          "cover": "https://i.ytimg.com/vi/uYKTTRHmZyw/maxresdefault.jpg",
+          "video": "https://openload.co/embed/44Kj4llmijY/Rick.and.Morty._1x05.mkv.mp4",
+          "id": 5
+        },
+        {
+          "title": "La poción de Rick",
+          "info": "Morty usa una poción para ser atractivo a las chicas, pero el efecto se vuelve viral y contagia a todos en la Tierra, así que queda en manos de Rick limpiar el desorden.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/e1724/7ba61b5ff07fad71d66d49dd5804a003153e1724.webp",
+          "video": "https://openload.co/embed/IbXd2q-oA3k/Rick.and.Morty._1x06.mkv.mp4",
+          "id": 6
+        },
+        {
+          "title": "Criando un Gazorpazorp",
+          "info": "Después de que Morty tiene un bebé con un robot sexual, Rick y Summer visitan el planeta de la mamá, donde el retoño se convierte en un adulto en cuestión de días.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/b786b/d3d4423e71322684f206421c5606e73128bb786b.webp",
+          "video": "https://openload.co/embed/qDLz5yNkkxY/Rick.and.Morty._1x07.mkv.mp4",
+          "id": 7
+        },
+        {
+          "title": "Televisión interdimensional",
+          "info": "Aburrido de la televisión, Rick instala una señal de cable que percibe series de otras dimensiones. Todos usan gafas para ver a sus yos alternativos.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/98589/8e29e2582da005599dc183dc512adb3f0cb98589.webp",
+          "video": "https://openload.co/embed/eSXWeJNtzQU/Rick.and.Morty._1x08.mkv.mp4",
+          "id": 8
+        },
+        {
+          "title": "Cosas necesarias",
+          "info": "Rick tiene dudas sobre el nuevo trabajo de Summer en una tienda administrada por el diablo. Jerry y Morty discuten sobre si Plutón es o no un planeta y viajan ahí.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/bf21f/73aacb62ab46c9436d34b860fdd4b800cc4bf21f.webp",
+          "video": "https://openload.co/embed/rwzo5YrafU0/Rick.and.Morty._1x09.mkv.mp4",
+          "id": 9
+        },
+        {
+          "title": "Encuentros cercanos a lo Rick",
+          "info": "Rick intenta disfrutar de su desayuno, pero un grupo de Ricks alternativos lo secuestra y lo juzga por crímenes contra los Ricks.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/9ca2f/32de5e55b3fd22b4ebdeb8e9de9775523c59ca2f.webp",
+          "video": "https://openload.co/embed/T8W0TdF6u58/Rick.and.Morty._1x10.mkv.mp4",
+          "id": 10
+        },
+        {
+          "title": "Es hora de la fiesta",
+          "info": "Jerry y Beth salen para participar en la recreación del hundimiento del Titanic, Rick y Summer hacen una fiesta que se sale de control.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/e8929/991d71b6915ac2770c08cd52163ec5ef234e8929.webp",
+          "video": "https://openload.co/embed/ANFAnvjEcAk/Rick.and.Morty._1x11.mkv.mp4",
+          "id": 11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Segunda temporada",
+      "chapters": [
+        {
+          "title": "Rupturas en el tiempo",
+          "info": "Rick descongela el tiempo, pero como él, Morty y Summer han vivido por un periodo tan largo en el tiempo congelado, se desarrolla una dimensión paralela.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/dc9c3/8d3536c10cb44d09a5d6bfccfd76252efa7dc9c3.webp",
+          "video": "https://openload.co/embed/4jVCuPXFAN4/2.01_Una_Rick-grieta_en_el_tiempo.mp4",
+          "id": 1
+        },
+        {
+          "title": "Morty escapa en la noche",
+          "info": "Rick le vende un arma a un extraterrestre asesino para poder pasar la tarde jugando videojuegos, y Morty intentará detenerlo.",
+          "type": "video",
+          "cover": "https://occ-0-1016-28.1.nflxso.net/art/41cfc/10cb94c282af21f3deaf34fb72c8e512ded41cfc.webp",
+          "video": "https://openload.co/embed/EVNoHXNpWUI/2.02_Mortynoche_a_correr.mp4",
+          "id": 2
+        },
+        {
+          "title": "Asimilación autoerótica",
+          "info": "Rick, Morty y Summer se topan con una mente colectiva llamada Unidad que solía salir con Rick y que intentará controlar la Tierra, si Summer se lo permite.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/8e670/f3887547e4ffc9cf2961fa11f17f9efff1c8e670.webp",
+          "video": "https://openload.co/embed/2_ekrRY0mw4/2.03_Asimilaci%C3%B3n_autoer%C3%B3tica.mp4",
+          "id": 3
+        },
+        {
+          "title": "Rick, vengador del futuro",
+          "info": "La familia se enfrenta a un parásito que implanta falsos recuerdos en sus mentes, y por un momento dudan si su amigo, el Sr. Traserín, es real.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/d7138/cf0d13187b3df64fac15d69d0a0f556e90dd7138.webp",
+          "video": "https://openload.co/embed/NFPuo93gYa0/2.04_Total_Rick-tal.mp4",
+          "id": 4
+        },
+        {
+          "title": "Ponte ricoso",
+          "info": "Una entidad extraterrestre aparece exigiendo música, así que Rick y Morty se alían con Ice-T para que los ayude a componer una canción que sea capaz de ganar un concurso.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/705f2/a58f708228772c376dc201e2a1915fb2baa705f2.webp",
+          "video": "https://openload.co/embed/UT5EhOEOII8/2.05_Obteniendo_Schwifty.mp4",
+          "id": 5
+        },
+        {
+          "title": "Los Ricks deben estar locos",
+          "info": "El auto de Rick se descompone, así que Morty y él entran en la batería, dentro de la que Rick creó un universo en miniatura.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/bc5ff/b3ec21aac0f36a462a9cd1f6862bbe7a946bc5ff.webp",
+          "video": "https://openload.co/embed/j86CoVYIr3w/2.06_Los_Ricks_deben_estar_locos.mp4",
+          "id": 6
+        },
+        {
+          "title": "Problemas con mini-Rick",
+          "info": "Summer le pide a Rick que se convierta en un adolescente para protegerla de los vampiros. Beth y Jerry asisten a una sesión de terapia matrimonial extraterrestre.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/c6630/4685ea80c5ab5a2bd9ab2b61ed2ec5ef84ac6630.webp",
+          "video": "https://openload.co/embed/AdqD-PGwqNg/2.07_Grandes_problemas_con_Mini-Rick.mp4",
+          "id": 7
+        },
+        {
+          "title": "Televisión interdimensional 2",
+          "info": "Jerry se come el helado que Rick usaba como caldo de cultivo de bacterias peligrosas y es internado en el hospital. Ahí, Rick altera la señal de la televisión.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/26e13/96764cbfc6053fc71efc0c3bd698eff17f926e13.webp",
+          "video": "https://openload.co/embed/NxF-z2j7FMs/2.08_Cable_Interdimensional_2_Destino_Tentador.mp4",
+          "id": 8
+        },
+        {
+          "title": "El día de la purga",
+          "info": "Rick y Morty aterrizan en un planeta donde los ciudadanos tienen permitido cometer delitos —incluso asesinar— sin recibir castigo por una noche.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/de883/dfaddb2ee26b431bb97674feaf71aa23070de883.webp",
+          "video": "https://openload.co/embed/xNpKdue5rM8/2.09_Mira_qui%C3%A9n_est%C3%A1_purgando_ahora.mp4",
+          "id": 9
+        },
+        {
+          "title": "La squanch-boda",
+          "info": "Jerry viaja por accidente a la boda de Hombre Pájaro y Tammy, así que toda la familia irá tras él y será testigo de esta ceremonia fatal.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/7a1d9/007b85d45b213e2960504b7892a179386597a1d9.webp",
+          "video": "https://openload.co/embed/W-fLxIIWL-s/2.10_Los_escuderos_de_la_boda.mp4",
+          "id": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tercera temporada",
+      "chapters": [
+        {
+          "title": "La redención de Rick",
+          "info": "Summer y Morty viajan a otra dimensión para localizar a Rick y encuentran a un montón de ellos. Rick tiene antojo de una salsa muy específica para su pollo.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/20fab/640d7932dc7664916fb8fc3c02f97a8a76d20fab.webp",
+          "video": "https://openload.co/embed/N3teCVkLwGw/%28UF%29_Rick_and_Morty_-_T3E01_La_redenci%C3%B3n_de_Rick_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 1
+        },
+        {
+          "title": "Rickusando la piedra",
+          "info": "Con todo el caos que hay en su casa, Rick, Morty y Summer viajan a un mundo posapocalíptico para lidiar con ciertos asuntos personales (violentamente)",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/385e4/5bbad9ff7586f497fb19299de0245d4f786385e4.webp",
+          "video": "https://openload.co/embed/8bfBUQSc52c/%28UF%29_Rick_and_Morty_-_T3E02_Rickusando_la_piedra_-_1080p_LAT-ENG.mkv",
+          "id": 2
+        },
+        {
+          "title": "Pepinillo Rick",
+          "info": "Rick se convierte en un pepinillo y, mientras el resto de la familia va a terapia, debe intentar averiguar cómo volver a ser humano.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/23734/60955825d1d0c4b79f8c2c7b055b67f3ab123734.webp",
+          "video": "https://openload.co/embed/0v9LdeZ3NGI/%28UF%29_Rick_and_Morty_-_T3E03_Pepinillo_Rick_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 3
+        },
+        {
+          "title": "Los vindicadores: El regreso de Destructor de Mundos",
+          "info": "Mientras que aparentemente ayuda a un grupo de superhéroes llamado los Vindicadores, Rick, alcoholizado, configura una situación terrorífica para ellos.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/0b011/bcd59e619dc234281dba65f8cd2b7a1bd250b011.webp",
+          "video": "https://openload.co/embed/28EY5uuO69c/%28UF%29_Rick_and_Morty_-_T3E04_El_regreso_de_Destructor_de_Mundos_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 4
+        },
+        {
+          "title": "La conspiración Whirly Dirly",
+          "info": "Rick y Jerry van a un lugar donde morir es imposible, pero una criatura quiere matar a Rick de cualquier forma. El intento de Summer para modificar su cuerpo sale mal.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/919be/6175c72e44a2184ebef3d1dcb4addff024b919be.webp",
+          "video": "https://openload.co/embed/B4IeKXRIqPQ/%28UF%29_Rick_and_Morty_-_T3E05_La_conspiraci%C3%B3n_Whirly_Dirly_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 5
+        },
+        {
+          "title": "Descanso y Ricklajación",
+          "info": "Tras otra agotadora aventura, Rick y Morty deciden que necesitan unas vacaciones, pero las cosas se ponen un poco locas cuando prueban una máquina de desintoxicación.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/48339/6a2a60fdeb2ad06e5a2e3245a714ec7ad0148339.webp",
+          "video": "https://openload.co/embed/oM4hnmdDYe8/%28UF%29_Rick_and_Morty_-_T3E06_Descanso_y_Ricklajaci%C3%B3n_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 6
+        },
+        {
+          "title": "Cuentos de la Ciudadela",
+          "info": "Rick y Morty se topan con Rick y Morty de la Ciudadela de Ricks antes de dirigirse a una aventura increíble en Atlantis.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/ca97b/b97c50825b3c9ae08fc26f64fabaf725c40ca97b.webp",
+          "video": "https://openload.co/embed/8ilnC0rUf8s/%28UF%29_Rick_and_Morty_-_T3E07_Cuentos_de_la_Ciudadela_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 7
+        },
+        {
+          "title": "Los recuerdos de Morty",
+          "info": "Rick le enseña a Morty un cuarto lleno de memorias que Morty le pidió que borrara de su mente, y las cosas se salen fuera de control cuando Rick decide restaurarlas.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/c62c8/730ff500df5743b23924ebe20a2001a162ac62c8.webp",
+          "video": "https://openload.co/embed/etTfS28fUKM/%28UF%29_Rick_and_Morty_-_T3E08_Los_recuerdos_de_Morty_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 8
+        },
+        {
+          "title": "ABC de Beth",
+          "info": "Rick y Beth lidian con asuntos de la infancia de ella y visitan otro mundo. Morty y Summer no se fían de la nueva novia de Jerry.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/9dc82/013aa3bd435f798dc33577bbbf4be9af2469dc82.webp",
+          "video": "https://openload.co/embed/K7Y8OgWbrrI/%28UF%29_Rick_and_Morty_-_T3E09_ABC_de_Beth_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 9
+        },
+        {
+          "title": "Día de Rick y Morty",
+          "info": "El presidente necesita ayuda de Rick y Morty y hay una confrontación. Beth empieza a sospechar que es un clon.",
+          "type": "video",
+          "cover": "https://occ-0-3-27.1.nflxso.net/art/48a6a/68c3958c5cc61928100439283b20c1d827c48a6a.webp",
+          "video": "https://openload.co/embed/8GdH8qBTMvE/%28UF%29_Rick_and_Morty_-_T3E10_D%C3%ADa_de_Rick_y_Morty_-_1080p_LAT-ENG.mkv.mp4",
+          "id": 10
+        }
+      ]
+    }
+  ]
+}

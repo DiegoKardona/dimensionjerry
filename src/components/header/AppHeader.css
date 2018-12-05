@@ -1,0 +1,24 @@
+.banner {
+  background-image: url(https://occ-0-3-28.1.nflxso.net/art/275ba/65655cdb1a73462325a0374cd226e96e2fb275ba.jpg);
+  background-size: cover;
+  background-position: 46.589999999999996% 64.12%;
+  height: 80vh;
+}
+
+.banner-vignette {
+  background: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    from(#181818),
+    to(transparent)
+  );
+  background: -webkit-linear-gradient(bottom, #181818, transparent);
+  background: -moz-linear-gradient(bottom, #181818, transparent);
+  background: -o-linear-gradient(bottom, #181818, transparent);
+  background: linear-gradient(to top, #181818, transparent);
+  width: 100%;
+  height: 70%;
+  position: absolute;
+  bottom: 100px;
+}

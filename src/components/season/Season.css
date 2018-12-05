@@ -1,0 +1,11 @@
+.seasonContainer {
+  overflow-x: auto;
+}
+
+.seasonItem {
+  display: -webkit-inline-box;
+}
+
+.seasonTitle {
+  margin: 8px;
+}

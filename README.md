@@ -1,2 +1,0 @@
-# dimensionjerry
-Created with CodeSandbox
